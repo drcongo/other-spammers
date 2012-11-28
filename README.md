@@ -1,6 +1,6 @@
 # Other Spammers #
 
-A companion repo to the [Spammy Recruiters](https://github.com/drcongo/spammy-recruiters "Spammy Recruiters") one, this one is for all those other companies who tend to send out unsolicited spam emails. Yes offshore testing companies, I'm looking at you. Specifically Saif at Testree.
+A companion repo to the [Spammy Recruiters](https://github.com/drcongo/spammy-recruiters "Spammy Recruiters") one, this one is for all those other companies who tend to send out unsolicited spam emails. Yes offshore testing companies, I'm looking at you.
 
 
 ## Protip ##
